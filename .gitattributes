@@ -1,0 +1,1 @@
+checkpoint/epoch=24-val_loss=0.04.ckpt filter=lfs diff=lfs merge=lfs -text
